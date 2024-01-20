@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Baga-Liftoff.recipe-book.iml" filepath="$PROJECT_DIR$/.idea/modules/Baga-Liftoff.recipe-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ctrl-alt-defeat.recipe-book.iml" filepath="$PROJECT_DIR$/.idea/modules/ctrl-alt-defeat.recipe-book.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.launchcode.recipe-book.iml" filepath="$PROJECT_DIR$/.idea/modules/org.launchcode.recipe-book.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/recipe-book.iml" filepath="$PROJECT_DIR$/.idea/recipe-book.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/recipe-book.main.iml" filepath="$PROJECT_DIR$/.idea/modules/recipe-book.main.iml" />
